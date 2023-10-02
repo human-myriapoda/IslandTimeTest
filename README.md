@@ -1,1 +1,2 @@
-# IslandsTime
+# IslandTime
+Welcome to `IslandTime`!
